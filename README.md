@@ -6,7 +6,6 @@ O codigo compila e foi testado em servidor dedicado (ver "Teste automatizado").
 ## Compilar
 
 **Requisito: JDK 8.** O Gradle 2.14 / ForgeGradle 2.1 nao rodam em Java 9+.
-O JDK 8 (Temurin) esta em `C:\Users\Kaio\.jdks\temurin-8`.
 
     build.bat
 
