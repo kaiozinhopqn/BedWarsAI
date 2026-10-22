@@ -1,0 +1,15 @@
+[
+{
+  "modid": "bedwarsai",
+  "name": "BedWars AI",
+  "description": "Bots com IA que jogam BedWars em mundos locais (servidor integrado ou servidor proprio com o mod).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "authorList": ["BedWarsAI"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
